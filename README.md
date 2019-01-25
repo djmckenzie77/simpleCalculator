@@ -1,2 +1,0 @@
-# simpleCalculator
-Created with CodeSandbox
