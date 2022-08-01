@@ -1,3 +1,4 @@
+//This is a test comment for Github VS Code extension
 function getHistory(){
 	return document.getElementById("history-value").innerText;
 }
